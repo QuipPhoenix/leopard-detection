@@ -11,9 +11,9 @@ Real-time Custom Object Detection has been a major feild of research in Image Pr
 
 By running the [test_live_cam.py](https://github.com/arnav-deep/leopard-detection/blob/master/test_live_cam.py) file, the command prompt will show the results.
 
-<p align = "center"> <br/>
+<p align = "center"> <br>
 <img align="center" src="leopard_screenshot.png" alt="leopard_detection">
-<br/>
+<br>
 
 The proper steps are mentioned [here](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-).
 
