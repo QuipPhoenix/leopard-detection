@@ -15,7 +15,7 @@ By running the [test_live_cam.py](https://github.com/arnav-deep/leopard-detectio
 <img align="center" src="leopard_screenshot.png" alt="leopard_detection">
 <br>
 
-The proper steps are mentioned [here](https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-).
+The proper steps are mentioned [here] (https://github.com/Boltuzamaki/Custom-Object-Detection-Using-Darkflow-Simplified-).
 
 ## Application in project
 This model for leopard detection has been made for [StaySafe](https://github.com/arnav-deep/StaySafe).
